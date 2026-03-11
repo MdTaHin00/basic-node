@@ -1,0 +1,30 @@
+// install  - devDep
+terminal call -> npm install --save-dev (keyword name)
+
+// update keyword
+terminal call -> npm update (keyword nama)
+
+// all keyword update
+terminal call -> npm update
+
+// all System keyword update
+terminal call -> npm install (keyword name)@latest
+
+// remove keyword
+terminal call -> npm uninstall (keyword name)
+
+// script run 
+terminal call -> npm run (script name)
+
+// keyword old version call
+terminal call -> npm install (keyword name)@(version number)
+
+// keywords code 
+ "express":"^4.21.2"(major,minor,patch)
+
+ // packages version check
+ terminal call -> npm list (keyword number)
+
+ // keyword problem check 
+ terminal call -> npm audit
+           
